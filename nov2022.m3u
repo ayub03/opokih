@@ -828,6 +828,9 @@ http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/9.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsWWZy3P/20220926-145742.png" group-title="Lokal" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar
 http://tvn.x10.mx/1/master-11.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KcHkj09s/20220926-145121.png" group-title="Lokal" tvg-id="Indosiar.id" tvg-name="Indosiar" ,Indosiar2
+https://yamcode.com/raw/k3uskjbcms
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mDNHYmFf/20220926-145306.png" group-title="Lokal" tvg-id="MetroTV.id" tvg-name="Metro TV", Metro TV
