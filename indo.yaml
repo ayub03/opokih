@@ -1,0 +1,47 @@
+payload:
+# Wiz smartgateway philips
+ - DOMAIN-SUFFIX,wiz.world
+ - DOMAIN,wizconnected.helpshift.com
+ - DOMAIN-KEYWORD,wiz
+# MARKET PLACE
+ - DOMAIN-SUFFIX,tokopedia.com
+ - DOMAIN-SUFFIX,shopee.co.id
+ - DOMAIN-SUFFIX,shopeemobile.com
+ - DOMAIN-SUFFIX,bukalapak.com
+ - DOMAIN-SUFFIX,lazada.co.id
+ - DOMAIN-SUFFIX,blibli.com
+ - DOMAIN-KEYWORD,tokopedia
+ - DOMAIN-KEYWORD,shopee
+ - DOMAIN-KEYWORD,bukalapak
+ - DOMAIN-KEYWORD,lazada
+ - DOMAIN-KEYWORD,blibli
+# E-Wallet / Dompet Digital
+ - DOMAIN-SUFFIX,gojek.com
+ - DOMAIN-SUFFIX,gobiz.co.id
+ - DOMAIN-SUFFIX,ovo.id
+ - DOMAIN-SUFFIX,dana.id
+ - DOMAIN-SUFFIX,linkaja.id
+ - DOMAIN-SUFFIX,octoclicks.co.id
+ - DOMAIN-SUFFIX,i-saku.com
+ - DOMAIN-SUFFIX,doku.com
+ - DOMAIN-SUFFIX,shopeepay.co.id
+ - DOMAIN-SUFFIX,grab.com
+ - DOMAIN-SUFFIX,grabtaxi.com
+ - DOMAIN-KEYWORD,gojek
+
+# Banking
+ - DOMAIN-SUFFIX,btn.co.id
+ - DOMAIN-SUFFIX,bri.co.id
+ - DOMAIN-SUFFIX,bni.co.id
+ - DOMAIN-SUFFIX,bankmandiri.co.id
+ - DOMAIN-SUFFIX,klikbca.com
+ - DOMAIN-SUFFIX,oyindonesia.com
+ - DOMAIN-KEYWORD,gobiz
+ - DOMAIN-KEYWORD,ovo
+ - DOMAIN-KEYWORD,dana
+ - DOMAIN-KEYWORD,linkaja
+ - DOMAIN-KEYWORD,octoclicks
+ - DOMAIN-KEYWORD,i-saku
+ - DOMAIN-KEYWORD,doku
+ - DOMAIN-KEYWORD,grab
+ - DOMAIN-KEYWORD,grabtaxi
