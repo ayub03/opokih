@@ -36,6 +36,13 @@ payload:
  - DOMAIN-SUFFIX,bankmandiri.co.id
  - DOMAIN-SUFFIX,klikbca.com
  - DOMAIN-SUFFIX,oyindonesia.com
+ - DOMAIN-SUFFIX,cimbniaga.co.id
+ - DOMAIN-SUFFIX,octoclicks.co.id
+ - DOMAIN-SUFFIX,octomobile.co.id
+ - DOMAIN-SUFFIX,airpay.co.id
+ - DOMAIN-KEYWORD,airpay
+ - DOMAIN-KEYWORD,octomobile
+ - DOMAIN-KEYWORD,cimbniaga
  - DOMAIN-KEYWORD,gobiz
  - DOMAIN-KEYWORD,ovo
  - DOMAIN-KEYWORD,dana
@@ -47,8 +54,8 @@ payload:
  - DOMAIN-KEYWORD,grabtaxi
 
 #whatsapp
- #- DOMAIN-SUFFIX,fna.whatsapp.net
- #- DOMAIN-SUFFIX,wa.me
+ - DOMAIN-SUFFIX,fna.whatsapp.net
+ - DOMAIN-SUFFIX,wa.me
  - DOMAIN-SUFFIX,whatsapp-plus.info
  - DOMAIN-SUFFIX,whatsapp-plus.me
  - DOMAIN-SUFFIX,whatsapp-plus.net
@@ -58,7 +65,7 @@ payload:
  - DOMAIN-SUFFIX,whatsapp.net
  - DOMAIN-SUFFIX,whatsapp.org
  - DOMAIN-SUFFIX,whatsapp.tv
- #- DOMAIN-SUFFIX,whatsappbrand.com
+ - DOMAIN-SUFFIX,whatsappbrand.com
  - DST-PORT,3478
  - DST-PORT,4244
  - DST-PORT,5222
